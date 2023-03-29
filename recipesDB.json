@@ -1,16 +1,44 @@
 {
     "recipes": {
       "1": {
-        "text": "Kosmiczne",
-        "image": "https://wallpapercave.com/wp/wp5609581.jpg"
+        "text": "Brownie with adds",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/brownie.jpg"
       },
       "2": {
-        "text": "Szare bure",
-        "image": "https://wallpapercave.com/dwp1x/wp5609420.jpg"
+        "text": "Two burgers and coca cola",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/burgers.jpg"
       },
       "3": {
-        "text": "bloki",
-        "image": "https://wallpapercave.com/dwp1x/wp5609833.jpg"
+        "text": "Coffie with some cookies",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/coffieCookies.jpg"
+      },
+      "4": {
+        "text": "Donuts with chocolate on it",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/donuts.jpg"
+      },
+      "5": {
+        "text": "Something to drink with limes",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/drink.jpg"
+      },
+      "6": {
+        "text": "Burgers that are able to fly",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/flyingBurger.jpg"
+      },
+      "7": {
+        "text": "Pink ice creams",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/iceCream.jpg"
+      },
+      "8": {
+        "text": "Pancakes with honey",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/pancakes.jpg"
+      },
+      "9": {
+        "text": "Some pasta",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/pasta.jpg"
+      },
+      "10": {
+        "text": "Sandwitches with salad",
+        "image": "https://raw.githubusercontent.com/ndzd2/Photos/main/sandwitches.jpg"
       }
     }
   }

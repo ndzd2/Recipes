@@ -4,7 +4,7 @@ import Recipe from './src/Recipe';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View>
       <Recipe />
       <StatusBar style="auto" />
     </View>
