@@ -8,3 +8,4 @@ The app fetches an image from an online URL and loads the text information from 
 ## Getting Started
 To use this app, simply download the code and run it using the Expo App. Once you have the app up and running, simply refresh the page to see a new recipe.
 In any case I am also attaching zipped project into repozitory.
+Please note that app was tested on web since I didn't have access to any android device or PC with MacOs.
